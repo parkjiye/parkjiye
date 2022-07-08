@@ -8,7 +8,7 @@ My name is Jiye Park and I am 23 years old. I live in Suwon.
 
 These days, I’m looking for a job as a computer engineer. I’d like to work in this field because I studied computer science in university, and I’m pretty good at it such as web programming and application development. 
 
-Now than my university education is finished, I’m looking forward to starting my career.
+Now that my university education has finished, I’m looking forward to starting my career.
 
 My hobbies these days include watching sports game ⚾ 🏐 and playing computer games 🎮.
 
