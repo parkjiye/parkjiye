@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-My name is Jiye Park and I am 23 years old. I live in Suwon.
+My name is Jiye Park and I am 23 years old. I live in Suwon, South Korea.
 
 These days, I’m looking for a job as a computer engineer. I’d like to work in this field because I studied computer science in university, and I’m pretty good at it such as web programming and application development. 
 
