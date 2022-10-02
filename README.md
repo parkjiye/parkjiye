@@ -1,5 +1,6 @@
 ### 👻 Nice way to meet me
 <p>
+<a href="https://parkjiye.github.io/" target="_blank"><img src="https://img.shields.io/badge/parkjiye.github.io-222222?style=for-the-badge&logo=Github Pages&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/lunapark_0.0/" target="_blank"><img src="https://img.shields.io/badge/lunapark_0.0-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
 <a href="https://blog.naver.com/parkji3618" target="_blank"><img src="https://img.shields.io/badge/parkji3618-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@luna7182" target="_blank"><img src="https://img.shields.io/badge/luanpark.log-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"/></a>
