@@ -17,7 +17,7 @@ My hobbies these days include watching sports game ⚾ 🏐 and playing computer
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=Strapi&logoColor=FFFFFF"/>
 
 
-![parkjiye's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjiye&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjiye&count_private=true)
 
 ### 🔭 Experience
 
