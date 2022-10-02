@@ -40,7 +40,12 @@ My hobbies these days include watching sports game ⚾ 🏐 and playing computer
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/> 
 </p>
 
+### 🙉 Github
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjiye&count_private=true)
+
+### 🙈 Algorithm
+[![LeetCode user parkjiye](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fparkjiye&logo=leetcode&logoColor=yellow)](https://leetcode.com/parkjiye/)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=luna7182)](https://solved.ac/luna7182)
 
