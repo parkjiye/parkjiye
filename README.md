@@ -24,7 +24,7 @@ My hobbies these days include watching sports game ⚾ 🏐 and playing computer
 2. Web Development Team - Voluntain(2021.06 ~)
 
 
-<!--![parkjiye's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjiye&show_icons=true&theme=radical)-->
+<!--![parkjiye's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjiye&count_private=tru&show_icons=true&theme=radical)-->
 
 <!--
 **parkjiye/parkjiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
