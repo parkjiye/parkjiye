@@ -39,6 +39,9 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/> -->
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 <h2 align="left">🙉 Github Status</h3>
 <div align="left" style="text-align:center">
   
