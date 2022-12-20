@@ -41,7 +41,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-  
+
 <h2 align="left">🙉 Github Status</h3>
 <div align="left" style="text-align:center">
   
