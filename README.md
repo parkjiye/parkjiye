@@ -44,9 +44,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
@@ -129,7 +129,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/parkjiye/parkjiye/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/01/2023 18:39:36 UTC
+ Last Updated on 23/01/2023 15:20:46 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">🙉 Github Status</h3>
