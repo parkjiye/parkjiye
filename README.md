@@ -42,12 +42,11 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/> -->
 </p>
-  
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%206%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
-
+    
 <h2 align="left">🙉 Github Status</h3>
+  
+  [![wakatime](https://wakatime.com/badge/user/b4f2bc94-6e77-4bee-836b-ee73502d6613.svg)](https://wakatime.com/@b4f2bc94-6e77-4bee-836b-ee73502d6613)
+
 <div align="left" style="text-align:center">
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjiye&hide=contribs,issues&count_private=true)
