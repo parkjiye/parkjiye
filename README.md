@@ -52,6 +52,10 @@
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjiye&hide=contribs,issues&count_private=true)
 </div>
+<div align="left" style="text-align:center">
+  
+  ![lunapark's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lunapark)
+  </div>
 
 <br>
 
