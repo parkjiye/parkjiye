@@ -53,7 +53,9 @@
 </div>
 <div align="left" style="text-align:center">
   
-  ![lunapark's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lunapark)
+  <!--![lunapark's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lunapark)-->
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
   </div>
 
 <br>
