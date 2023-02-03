@@ -45,7 +45,6 @@
     
 <h2 align="left">🙉 Github Status</h3>
   
-  [![wakatime](https://wakatime.com/badge/user/b4f2bc94-6e77-4bee-836b-ee73502d6613.svg)](https://wakatime.com/@b4f2bc94-6e77-4bee-836b-ee73502d6613)
 
 <div align="left" style="text-align:center">
   
