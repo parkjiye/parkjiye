@@ -49,7 +49,7 @@
 <div align="left" style="text-align:center">
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjiye&hide=contribs,issues&count_private=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=parkjiye&theme=oldie&row=1&margin-w=15)](https://github.com/parkjiye/github-profile-trophy)</div>
+</div>
 <div align="left" style="text-align:center">
   
   <!--![lunapark's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lunapark)-->
