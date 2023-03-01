@@ -54,7 +54,7 @@
   
   <!--![lunapark's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lunapark)-->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-601.2%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -90,7 +90,7 @@ WSL                      4 hrs 27 mins       ██████░░░░░�
 ```
 
 
- Last Updated on 01/03/2023 06:44:05 UTC
+ Last Updated on 01/03/2023 15:19:30 UTC
 <!--END_SECTION:waka-->
   </div>
 
