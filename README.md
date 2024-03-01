@@ -9,8 +9,9 @@ _Back-end, Spring Boot, Java_
 
 ### 😀 Nice way to meet me
 - <a href="https://velog.io/@luna7182">Blog</a>
+- <a href="www.linkedin.com/in/parkjiye">Linkedin</a>
 <!-- - <a href="https://parkjiye.github.io/">Portfolio</a> -->
-- <a href="https://bramble-raver-32c.notion.site/5cc2ab19797548e681c2d6626f873168">Resume</a>
+- <a href="https://www.rallit.com/hub/resumes/108467/%EB%B0%95%EC%A7%80%EC%98%88">Resume</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjiye&count_bg=%23003366&title_bg=%23555555&icon=&icon_color=%23003366&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2020%20mins-blue)
