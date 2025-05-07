@@ -10,7 +10,7 @@ _Back-end, Spring Boot, Java_
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjiye&count_bg=%23003366&title_bg=%23555555&icon=&icon_color=%23003366&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-816.4%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -30,15 +30,16 @@ _Back-end, Spring Boot, Java_
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+JavaScript               19 mins             ██████████████████████░░░   87.03 % 
+HTML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/2025 15:29:29 UTC
+ Last Updated on 07/05/2025 15:25:12 UTC
 <!--END_SECTION:waka-->
