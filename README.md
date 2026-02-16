@@ -30,19 +30,15 @@ _Back-end, Spring Boot, Java_
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               1 hr 32 mins        █████████████████████████   99.98 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-VS Code                  1 hr 32 mins        █████████████████████████   99.98 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 
- Last Updated on 15/02/2026 15:29:52 UTC
+ Last Updated on 16/02/2026 15:43:51 UTC
 <!--END_SECTION:waka-->
