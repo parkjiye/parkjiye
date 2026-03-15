@@ -30,20 +30,20 @@ _Back-end, Spring Boot, Java_
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               1 hr 17 mins        █████████████░░░░░░░░░░░░   51.22 % 
-Java                     1 hr 6 mins         ███████████░░░░░░░░░░░░░░   43.77 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+JavaScript               1 hr 7 mins         ████████████░░░░░░░░░░░░░   47.74 % 
+Java                     1 hr 6 mins         ████████████░░░░░░░░░░░░░   47.20 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 에디터들: 
-VS Code                  1 hr 20 mins        █████████████░░░░░░░░░░░░   53.30 % 
-IntelliJ IDEA            1 hr 10 mins        ████████████░░░░░░░░░░░░░   46.70 % 
+IntelliJ IDEA            1 hr 10 mins        █████████████░░░░░░░░░░░░   50.36 % 
+VS Code                  1 hr 9 mins         ████████████░░░░░░░░░░░░░   49.64 % 
 
 💻 운영 체제들: 
-Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/03/2026 15:32:20 UTC
+ Last Updated on 15/03/2026 15:33:27 UTC
 <!--END_SECTION:waka-->
