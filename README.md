@@ -10,7 +10,7 @@ _Back-end, Spring Boot, Java_
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjiye&count_bg=%23003366&title_bg=%23555555&icon=&icon_color=%23003366&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-823.93%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -30,19 +30,19 @@ _Back-end, Spring Boot, Java_
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     2 hrs 51 mins       ████████████████████░░░░░   80.35 % 
-YAML                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Groovy                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Java                     3 hrs 19 mins       ███████████████████░░░░░░   77.44 % 
+YAML                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Groovy                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            3 hrs 33 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2026 16:14:28 UTC
+ Last Updated on 28/03/2026 15:35:37 UTC
 <!--END_SECTION:waka-->
