@@ -30,18 +30,16 @@ _Back-end, Spring Boot, Java_
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     2 hrs 21 mins       ██████████████████████░░░   89.73 % 
-Groovy                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Java                     1 hr 58 mins        ████████████████████████░   97.21 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            2 hrs 38 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      2 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/04/2026 16:03:56 UTC
+ Last Updated on 03/04/2026 15:41:45 UTC
 <!--END_SECTION:waka-->
