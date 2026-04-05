@@ -30,15 +30,15 @@ _Back-end, Spring Boot, Java_
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     1 hr 51 mins        █████████████████████████   100.00 % 
+Java                     1 hr 29 mins        █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            1 hr 51 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 29 mins        █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/04/2026 15:37:09 UTC
+ Last Updated on 05/04/2026 15:37:48 UTC
 <!--END_SECTION:waka-->
