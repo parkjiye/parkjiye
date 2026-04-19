@@ -12,15 +12,15 @@ _Back-end, Spring Boot, Java_
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-824.21%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-824.29%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-🌆 낮　                     516 commits         ████████░░░░░░░░░░░░░░░░░   32.60 % 
-🌃 저녁                     860 commits         ██████████████░░░░░░░░░░░   54.33 % 
-🌙 밤　                     129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+🌞 아침                     78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+🌆 낮　                     516 commits         ████████░░░░░░░░░░░░░░░░░   32.51 % 
+🌃 저녁                     864 commits         ██████████████░░░░░░░░░░░   54.44 % 
+🌙 밤　                     129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 ```
 
 
@@ -40,5 +40,5 @@ _Back-end, Spring Boot, Java_
 ```
 
 
- Last Updated on 18/04/2026 15:40:26 UTC
+ Last Updated on 19/04/2026 15:40:36 UTC
 <!--END_SECTION:waka-->
