@@ -10,17 +10,17 @@ _Back-end, Spring Boot, Java_
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjiye&count_bg=%23003366&title_bg=%23555555&icon=&icon_color=%23003366&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-824.29%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-824.36%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-🌆 낮　                     516 commits         ████████░░░░░░░░░░░░░░░░░   32.51 % 
-🌃 저녁                     864 commits         ██████████████░░░░░░░░░░░   54.44 % 
-🌙 밤　                     129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+🌞 아침                     78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+🌆 낮　                     516 commits         ████████░░░░░░░░░░░░░░░░░   32.43 % 
+🌃 저녁                     868 commits         ██████████████░░░░░░░░░░░   54.56 % 
+🌙 밤　                     129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 ```
 
 
@@ -30,15 +30,15 @@ _Back-end, Spring Boot, Java_
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Java                     12 mins             █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+IntelliJ IDEA            12 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/04/2026 15:40:36 UTC
+ Last Updated on 20/04/2026 16:14:25 UTC
 <!--END_SECTION:waka-->
